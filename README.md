@@ -8,29 +8,13 @@ Enhance the TargetFrame and FocusFrame, including player PVP threat, player clas
 增强目标头像及焦点头像，包括玩家pvp仇恨、职业小图标、头像渐隐、5秒规则、战斗状态提示等功能。  
 
 # 说明
-xsMod
-by xunshishi
+【xsMod】 by xunshishi
 
-xs Modern TargetFrame
-by xunshishi
-ModernTargetFrame改进版 **优化pvp体验** 添加玩家伪仇恨、职业小图标、头像渐隐、5秒规则提示等实用功能。
+【PowerSpark】 by starpt
 
-PowerSpark
-by [github] starpt
+【Modern TargetFrame】 by SDPhantom
 
-Modern TargetFrame
-by SDPhantom
-
-https://www.wowinterface.com/forums/member.php?u=34145
-https://www.curseforge.com/members/sdphantomgamer/projects
-## Notes: Re-implements TargetFrame features found in modern WoW
-===============================================================================
-
-All Rights Reserved - Use at your own risk
-UnZip contents into the "Interface\AddOns" folder in your WoW instalation directory
-
-===============================================================================
-Versions:
+【Versions】
 --new--
 
 tbc-v2.1(2021-11-26) 
