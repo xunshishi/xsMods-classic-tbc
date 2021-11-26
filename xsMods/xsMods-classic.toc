@@ -1,0 +1,28 @@
+## Interface: 11307
+## Title: xsMods
+## Notes: xsMods **xs整合插件**
+## Version: 1.0.0
+## Author: xunshishi
+
+## SavedVariables: xsMods_Options
+
+# Core Files
+xsMods.lua
+arena1.lua
+arena2.lua
+
+# mordernTargetFrame
+Localization.lua
+ModernTargetFrame.lua
+
+# Feature Modules - The order these load is the order they show in the options panel
+StatusBarText.lua
+Classification.lua
+ThreatIndicators.lua
+
+# xunshishi添加的其他模块
+xsUnitFrame.lua
+PowerSpark.lua
+
+
+
