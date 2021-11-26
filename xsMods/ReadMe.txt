@@ -1,29 +1,19 @@
-xsMod
-by xunshishi
+# xsMods-classic-tbc
+** For Classic & Classic TBC **  
+Enhance the TargetFrame and FocusFrame, including player PVP threat, player class icon, TargetFrame fading, 5-second rule, combat status flash and other functions.  
 
-===============================================================================
+# 魔兽世界xsMods插件
+** 兼容怀旧服和燃烧的远征 **    
+增强目标头像及焦点头像，包括玩家pvp仇恨、职业小图标、头像渐隐、5秒规则、战斗状态提示等功能。  
 
-xs Modern TargetFrame
-by xunshishi
-ModernTargetFrame改进版 **优化pvp体验** 添加玩家伪仇恨、职业小图标、头像渐隐、5秒规则提示等实用功能。
+# 说明
+【xsMod】 by xunshishi
 
-PowerSpark
-by [github] starpt
+【PowerSpark】 by starpt
 
-Modern TargetFrame
-by SDPhantom
-https://www.wowinterface.com/forums/member.php?u=34145
-https://www.curseforge.com/members/sdphantomgamer/projects
-## Notes: Re-implements TargetFrame features found in modern WoW
-===============================================================================
+【Modern TargetFrame】 by SDPhantom
 
-All Rights Reserved - Use at your own risk
-UnZip contents into the "Interface\AddOns" folder in your WoW instalation directory
-
-===============================================================================
-Versions:
---new--
-
+# Versions
 tbc-v2.1(2021-11-26) 
 修复了能量条显示错误问题、修复了焦点位置无法设置的问题、删除了alt右键设置焦点功能
 
@@ -33,7 +23,6 @@ tbc-v2.0(2021-11-25)
 tbc-v1 (2021-07) 
 对tbc怀旧进行了适配 
 
---old--
 v1.8 (2020-07-08)
 	-Rewrote threat system using Blizzard's ThreatAPI (Removed LibThreatClassic2)
 
@@ -91,5 +80,3 @@ v1.0 (2020-02-18)
 	-Initial Version
 	-Adds StatusBarText to TargetFrame's health and mana bars
 	-Shows the Rare-Elite border texture for mobs under that classification
-
-
