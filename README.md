@@ -5,14 +5,14 @@
 ** For Classic & Classic TBC **  
 Enhance the TargetFrame and FocusFrame, including player PVP threat, player class icon, TargetFrame fading, 5-second rule, combat status flash and other functions.  
 
-# 作者 _writer
+# writer 开发者
 【xsMod】 by xunshishi
 
 【PowerSpark】 by starpt
 
 【Modern TargetFrame】 by SDPhantom
 
-# 版本 _version
+# version 版本
 tbc-v2.1(2021-11-26) 
 修复了能量条显示错误问题、修复了焦点位置无法设置的问题、删除了alt右键设置焦点功能
 
