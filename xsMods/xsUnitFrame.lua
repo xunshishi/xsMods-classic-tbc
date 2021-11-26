@@ -50,6 +50,10 @@ targeticon:SetScript("OnUpdate", function(self)
 		targeticon:Disable()
 		-- SetDesaturation(TargetClassIcon, true)
 	end
+	
+	
+
+	
 end)
 
 -------------生成焦点头像职业小图标材质-------------
@@ -219,3 +223,5 @@ gf:SetScript("OnUpdate", function(self)
 	end
 FrameOnUpdateFocus(zf)
 end) 
+
+
